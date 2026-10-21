@@ -1,1 +1,21 @@
 
+Problem Statement: Sistem i Thjeshtë për Rezervime Mjekësore
+1. Problemi
+Në shumë klinika, rezervimi i termineve mjekësore bëhet përmes telefonatave, mesazheve ose drejtpërdrejt në recepcion. Kjo mënyrë mund të shkaktojë pritje të gjata, termine të dyfishta, mungesë të informacionit për disponueshmërinë e mjekëve dhe vështirësi në menaxhimin e orarit. Pacientët shpesh duhet të kontaktojnë klinikën disa herë për të gjetur një termin të lirë ose për të konfirmuar takimin. Nga ana tjetër, mjekët dhe stafi administrativ kanë nevojë për një mënyrë më të organizuar për të menaxhuar rezervimet dhe për të shmangur gabimet.
+
+Qëllimi i këtij projekti është të zhvillohet një sistem i thjeshtë për rezervime mjekësore, i cili lehtëson caktimin e termineve dhe përmirëson komunikimin ndërmjet pacientëve, mjekëve dhe klinikës.
+
+2. Përdoruesit
+Sistemi do të ketë këto role kryesore:
+
+Pacienti (Patient): Mund të regjistrohet, të shikojë disponueshmërinë e mjekëve dhe të rezervojë ose anulojë takime.
+Mjeku (Doctor): Mund të menaxhojë orarin e tij, të shikojë takimet dhe t'i konfirmojë ose anulojë ato.
+Administratori (Admin): Mund të menaxhojë përdoruesit, mjekët dhe rezervimet në sistem.
+3. Pesë funksionalitetet kryesore
+1.Regjistrimi dhe identifikimi i përdoruesve sipas rolit.
+2.Shfaqja e mjekëve dhe termineve të lira.
+3.Rezervimi i takimeve mjekësore.
+4.Konfirmimi dhe anulimi i takimeve nga mjekët.
+5.Menaxhimi i orarit të mjekëve dhe i rezervimeve nga administratori.
+
+Sistemi synon të zvogëlojë gabimet në rezervime, të kursejë kohën e përdoruesve dhe të përmirësojë organizimin e punës në klinikë.
